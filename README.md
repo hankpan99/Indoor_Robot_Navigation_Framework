@@ -4,7 +4,6 @@
 ## Introduction
 
 ## Hw1
-
 ![Screenshot from 2022-09-10 05-10-54](https://user-images.githubusercontent.com/75136798/189446399-a6b8192a-4b37-4fb1-8633-09a5385cd3de.png)![Screenshot from 2022-09-10 05-18-39](https://user-images.githubusercontent.com/75136798/189447306-a5e838f4-d974-4191-b1b8-29ad69e5d196.png)
 
 ## Hw2
