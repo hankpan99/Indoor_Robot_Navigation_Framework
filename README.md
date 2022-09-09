@@ -1,7 +1,7 @@
 # Indoor_Robot_Navigation_Framework
-![project](https://user-images.githubusercontent.com/75136798/189445287-5b079673-5740-45fa-8f2a-ed017ba6f412.gif)
 
 ## Introduction
+![project](https://user-images.githubusercontent.com/75136798/189445287-5b079673-5740-45fa-8f2a-ed017ba6f412.gif)
 
 ## Hw1
 ![Screenshot](https://user-images.githubusercontent.com/75136798/189448499-a4c75350-20b6-4f6f-a725-e3f95ee4324a.png)
@@ -12,7 +12,6 @@
 ![Screenshot](https://user-images.githubusercontent.com/75136798/189448251-7986e849-5070-4eed-bbdc-fb48bf25b8ce.png)
 
 ## Hw3
-
 ### Created Map
 ![Screenshot](https://user-images.githubusercontent.com/75136798/189445518-d93d0854-bb2c-43ee-b1d7-375f32442907.jpg)
 
