@@ -7,8 +7,7 @@
 ![Screenshot](https://user-images.githubusercontent.com/75136798/189446399-a6b8192a-4b37-4fb1-8633-09a5385cd3de.png)![Screenshot](https://user-images.githubusercontent.com/75136798/189447306-a5e838f4-d974-4191-b1b8-29ad69e5d196.png)
 
 ## Hw2
-![image](https://user-images.githubusercontent.com/75136798/189447806-437a15e9-8388-4352-ad68-474c55bf0c2f.png)
-
+![Screenshot](https://user-images.githubusercontent.com/75136798/189447918-ccdebc00-bfa4-4b4e-be0d-4c0e4bc78d6c.png)
 
 ## Hw3
 
