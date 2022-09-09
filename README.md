@@ -7,7 +7,9 @@
 ![Screenshot](https://user-images.githubusercontent.com/75136798/189446399-a6b8192a-4b37-4fb1-8633-09a5385cd3de.png)![Screenshot](https://user-images.githubusercontent.com/75136798/189447306-a5e838f4-d974-4191-b1b8-29ad69e5d196.png)
 
 ## Hw2
-![Screenshot](https://user-images.githubusercontent.com/75136798/189447918-ccdebc00-bfa4-4b4e-be0d-4c0e4bc78d6c.png)
+![Screenshot](https://user-images.githubusercontent.com/75136798/189448226-ef5c6fb5-d2f0-4cd8-acb6-91af71f7384c.png)
+![Screenshot](https://user-images.githubusercontent.com/75136798/189448232-b533fc80-6a9f-49af-9837-00b1ac6af00e.png)
+![Screenshot](https://user-images.githubusercontent.com/75136798/189448251-7986e849-5070-4eed-bbdc-fb48bf25b8ce.png)
 
 ## Hw3
 
