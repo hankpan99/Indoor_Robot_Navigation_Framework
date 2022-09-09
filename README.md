@@ -4,7 +4,7 @@
 ## Introduction
 
 ## Hw1
-![Screenshot](https://user-images.githubusercontent.com/75136798/189446399-a6b8192a-4b37-4fb1-8633-09a5385cd3de.png)![Screenshot](https://user-images.githubusercontent.com/75136798/189447306-a5e838f4-d974-4191-b1b8-29ad69e5d196.png)
+![Screenshot](https://user-images.githubusercontent.com/75136798/189448499-a4c75350-20b6-4f6f-a725-e3f95ee4324a.png)
 
 ## Hw2
 ![Screenshot](https://user-images.githubusercontent.com/75136798/189448226-ef5c6fb5-d2f0-4cd8-acb6-91af71f7384c.png)
