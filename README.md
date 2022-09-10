@@ -1,7 +1,8 @@
 # Indoor_Robot_Navigation_Framework
 
 ## Introduction
-Below is a demo video of navigating to the target `table` in `apartment_0` using `habitat-sim` simulator.
+Below is a demo video of navigating to the target `table` (highlighted with red mask) in `apartment_0` using `habitat-sim` simulator ([Link](https://github.com/facebookresearch/habitat-sim)).
+
 ![project](https://user-images.githubusercontent.com/75136798/189445287-5b079673-5740-45fa-8f2a-ed017ba6f412.gif)
 
 ## Reconstruction
